@@ -1,6 +1,6 @@
 # Object-Detection-Using-MobilenetSSD
 
-![image_result](https://user-images.githubusercontent.com/65527675/140680027-ee3a5070-1ddf-488f-968a-1d337d1369e4.jpg)
+ ![image_result](https://user-images.githubusercontent.com/65527675/140680027-ee3a5070-1ddf-488f-968a-1d337d1369e4.jpg)
 
 ## Description
 
